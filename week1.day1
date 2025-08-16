@@ -1,0 +1,27 @@
+package week1.day1;
+
+public class Chrome {
+
+	public static void main(String[] args) {
+		//Step 1 - version of type float with a value of 91.0f
+		float version = 91.0f;
+    //Step 2 - developer of type String with a value of "Google"
+		String Developer = "Google Chrome";
+    //Step 3 - isBeta of type boolean with a value of false
+		boolean Isbeta = false;
+    //Step 4 - releaseYear of type int with a value of 2008
+		int releaseYear = 2008;
+    //Step 5 - shortcutKey of type char with a value of 'C'
+		char shortcutKey = 'C';
+    //Step 6 - Print the values of all variables using System.out.println. d) Run the program and confirm that the variable values are printed in the console.
+		System.out.println(version);
+		System.out.println(Developer);
+		System.out.println(Isbeta);
+		System.out.println(releaseYear);
+		System.out.println(shortcutKey);
+		
+		
+
+	}
+
+}
